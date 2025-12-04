@@ -21,9 +21,8 @@
 - Adam & SGD optimizers  
 
 ---
-
-## Running the Code
 ```
+## Running the Code
 ```bash
 python lab6_regularization.py
 ```
