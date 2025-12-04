@@ -23,7 +23,7 @@
 ---
 
 ## Running the Code
-
+```
 ```bash
 python lab6_regularization.py
 ```
